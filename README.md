@@ -56,6 +56,8 @@ ___
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+**Obs:** Este projeto depende diretamente do projeto [nlw copa server](https://github.com/willyoliv/nlw-copa-server), sendo necessário executar o server primeiro e configurar o arquivo `.env` com a url em que o projeto server está funcionando.
+
 ##### Clone este repositório
 ```bash
 git clone https://github.com/willyoliv/nlw-copa-web.git
